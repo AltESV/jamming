@@ -29,4 +29,4 @@ const Spotify = {
 }
 
 
-expect default Spotify;
+export default Spotify;
